@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="ServiceTSE" />
+  <setParameter name="eAirlinesConnectionString-Web.config Connection String" value="Data Source=ec2-13-58-26-239.us-east-2.compute.amazonaws.com;Initial Catalog=eAirlines;Persist Security Info=True;User ID=sa;Password=Comnet@6323" />
+</parameters>

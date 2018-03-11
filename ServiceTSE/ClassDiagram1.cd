@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ServiceTSE.CompositeType" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAQAAA=</HashCode>
+      <FileName>IService1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Flight">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="Domain.Flight.flihghtService" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Domain\Flight.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="Domain.Flight.TableValue" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Domain\Flight.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="Domain.Flight.flightServiceNeed" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Domain\Flight.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="Domain.Flight.flightID" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Domain\Flight.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="Domain.Flight.structActivity" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Domain\Flight.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="Domain.Flight.structEvent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Domain\Flight.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAiAgGwJCAAdEAAEArQUAQAXEiBSCYAwQgQAQMAHAgQ=</HashCode>
+      <FileName>Domain\Flight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Order">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAEBAAAAAIAAAASAAwBEAAMAQAAAAAkAAwAIAA=</HashCode>
+      <FileName>Domain\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ServiceTSE.IService1">
+    <Position X="1" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiAAAAEAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>IService1.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>
